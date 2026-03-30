@@ -65,9 +65,11 @@ export const skillCategories: SkillCategory[] = [
   {
     category: 'Generative AI',
     items: [
-      { name: 'LLM Applications', level: 'Advanced', percentage: 88 },
+      { name: 'LLM Applications', level: 'Advanced', percentage: 40 },
       { name: 'Prompt Engineering', level: 'Advanced', percentage: 92 },
-      { name: 'RAG Systems', level: 'Advanced', percentage: 86 },
+      
+      
+      { name: 'RAG Systems', level: 'Advanced', percentage: 10 },
       { name: 'Fine-tuning', level: 'Intermediate', percentage: 68 },
       { name: 'LoRA', level: 'Intermediate', percentage: 64 },
     ],
